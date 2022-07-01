@@ -1,4 +1,4 @@
-# [TypeScript]((https://www.typescriptlang.org)) 입문 - 정리
+# [TypeScript](https://www.typescriptlang.org) 입문 - 정리
 
 [<img width="165" alt="스크린샷 2022-06-30 오전 12 27 44" src="https://user-images.githubusercontent.com/76654131/176475699-60846793-d5a8-4d95-93f1-2788cb9d5efe.png">](https://www.typescriptlang.org)
 
